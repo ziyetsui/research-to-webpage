@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research to Webpage"
+  short_description: "Turn research into runnable static atlas websites."
+  default_prompt: "Use $research-to-webpage to research a reference project into markdown briefs, then implement a static atlas-style webpage with tokens, registry, repo, and deployment."
